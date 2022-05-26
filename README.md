@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/C13806?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Advace Python Programming
 This Learning Path shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. You will learn about profilers and reactive programming, concurrency and parallelism,as well as tools for making your apps quick and efficient. You will discover how to write code for parallel architectures using TensorFlow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark. With the knowledge of how Python design patterns work, you will be able to clone objects, secure interfaces, dynamically choose algorithms, and accomplish much more in high performance computing.
 
